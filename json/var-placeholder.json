@@ -3,7 +3,7 @@
     "type":"vars",
     "attributes": {
       "key":"placeholder",
-      "value":"placekitten.com, placedog.net, picsum.photos",
+      "value":"placekitten.com",
       "category":"terraform",
       "hcl":false,
       "sensitive":false
